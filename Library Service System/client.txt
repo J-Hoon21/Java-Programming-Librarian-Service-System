@@ -1,0 +1,3 @@
+C001:Kim Hyun Soo:Female:Student:baerona@herapalance.com:hyunsoo@gmail.com
+C002:Seohoon:Male:Student:seohoon@herapalance.com:youngdae@yahoomail.com
+C003:Seohoon:Male:Student:seohoon@herapalance.com:youngdae@yahoomail.com

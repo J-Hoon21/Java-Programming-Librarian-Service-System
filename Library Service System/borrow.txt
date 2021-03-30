@@ -1,0 +1,4 @@
+C002:Kim Yoo Jin:Lecturer:B002:The Evil Within:Horror:2021-03-18:2021-04-01:returned
+C001:Kim Hyun Soo:Student:B001:Penthouse 2 - War In Life:Suspense and Thrillers:2021-03-18:2021-04-03:returned
+C003:Kim Young Dae:Student:B002:The Evil Within:Horror:2021-02-19:2021-03-02:not returned
+C003:Kim Young Dae:Student:B004:Penthouse 3 - War In Life:Suspense and Thrillers:2021-03-1:2021-03-15:returned
